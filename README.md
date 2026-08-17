@@ -8,7 +8,7 @@ I work across the stack—from frontend architecture and backend systems to data
 
 ### Main Stack
 
-* **Languages:** TypeScript, JavaScript, Python, Java, C++
+* **Languages:** TypeScript, JavaScript, Java, C++
 * **Frontend:** React, Next.js, Tailwind CSS
 * **Backend:** Node.js, Convex, REST APIs
 * **Data:** PostgreSQL, Supabase, Prisma
