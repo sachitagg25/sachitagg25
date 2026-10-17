@@ -69,7 +69,7 @@ I'm especially interested in **AI-native products, agentic systems, developer to
 
 ### Currently Exploring
 
-I'm currently exploring **agentic AI systems and AI-native application architecture** experimenting with LLMs, tool calling, structured outputs, multi step agents, RAG, and ways to build AI systems that can reliably perform useful work rather than simply generate text.
+I'm currently exploring **agentic AI systems and AI native application architecture** experimenting with LLMs, tool calling, structured outputs, multi step agents, RAG, and ways to build AI systems that can reliably perform useful work rather than simply generate text.
 
 ### Connect
 
